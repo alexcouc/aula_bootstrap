@@ -1,0 +1,13 @@
+body{color: aqua;
+    font: 20px arial;
+}
+.navbar{ 
+    background-color: #040404;
+}
+.quem-somos{ 
+    background-color: blue;
+    color: white;
+}
+.margin{
+    padding-top: 10px;
+}
